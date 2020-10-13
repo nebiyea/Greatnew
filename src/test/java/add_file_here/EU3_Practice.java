@@ -11,6 +11,8 @@ public class EU3_Practice {
         //creat a pull request
         //kkkll
 
+        System.out.println("everythink perfect");
+
 
     }
 }
